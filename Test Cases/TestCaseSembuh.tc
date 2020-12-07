@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>positif covid</description>
+   <name>TestCaseSembuh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d34d669c-2275-4a11-842e-d5f435226bb8</testCaseGuid>
+</TestCaseEntity>
